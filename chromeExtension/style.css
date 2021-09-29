@@ -1,0 +1,18 @@
+body {
+    width: 400px;
+    height:250px;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+
+}
+
+p{
+    display: inner-flex;
+    margin: auto 5px;
+    font-size:20px;
+    color:black;
+    border-radius: 3px;
+    border: 1px solid pink;
+    padding:8px;
+}
