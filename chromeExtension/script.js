@@ -13,7 +13,7 @@
 // 	"response_type": "in_channel",
 // 	"username": "icanhazdadjoke"
 // }
-
+//we will fetch from attachment->text
 
 fetch('https://icanhazdadjoke.com/slack')
 .then(data=>data.json())
