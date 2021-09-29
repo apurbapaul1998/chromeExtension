@@ -1,4 +1,4 @@
-//only manifest.jso with 3 properties will make you an extension
+//only manifest.json with 3 properties will make you an extension
 //then we can add properties/features for what we want
 //here we are fetching jokes from "https://icanhazdadjoke.com/slack"
 //here everything is in an object
